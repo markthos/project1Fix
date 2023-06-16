@@ -185,7 +185,7 @@ function displayCourses(courses) {
 }
 
 // Initial display of courses
-displayCourses(courses);
+displayCourses(course);
 
 // Function to search courses
 function searchCourses() {
